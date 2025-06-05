@@ -24,3 +24,12 @@ Homestead.yaml
 npm-debug.log
 Thumbs.db
 yarn-error.log
+/coverage
+/.phpstan-cache
+/_ide_helper*.php
+/.phpstorm.meta.php
+/public/vendor/telescope
+/public/vendor/horizon
+/public/vendor/dusk
+/storage/app/dusk-screenshots
+/storage/debugbar
